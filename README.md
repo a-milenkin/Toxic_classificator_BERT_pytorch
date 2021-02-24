@@ -4,7 +4,7 @@ Toxic coments classificator model with BERT on pytorch
 ### Описание проекта
 Данное веб приложение позволяет определять таксичность текста. 
 
-![](images/Word_cloud_of_the_keyword_clusters.png)
+![](images/world_cloud.png)
 
 
 
