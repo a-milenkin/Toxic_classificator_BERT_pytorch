@@ -2,7 +2,7 @@
 Toxic coments classificator model with BERT on pytorch
 
 ### Описание проекта
-Данное веб приложение позволяет определять таксичность текста. 
+Данное веб приложение позволяет определять токсичность текста. 
 
 ![](images/world_cloud.jpg)
 
@@ -42,11 +42,11 @@ Toxic coments classificator model with BERT on pytorch
 
   `docker build .`
 
-(посмотреть номер имиджа)
+(Обратить внимание на номер имиджа - image_id)
 
 #### Шаг № 2: запустить докер контейнер
 
-  `docker run -d -p 5000:5000 [номер имиджа]`
+  `docker run -d -p 5000:5000 [image_id]`
 
 (cмотреть порт 5000)
 
@@ -66,7 +66,7 @@ Toxic coments classificator model with BERT on pytorch
 ## Дополниельные команды:
 ### удалить  докер контейнер по окончанию работы
 
-  `docker ps`   # посмотреть номер контейнера
+  `docker ps`   # Обратить внимание на номер контейнера
   `docker rm -а [номер контейнера]`   # удалить по номеру контейнера
 
 #### примечание
