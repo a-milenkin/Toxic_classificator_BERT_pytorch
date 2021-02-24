@@ -21,7 +21,6 @@ Toxic coments classificator model with BERT on pytorch
 	  Либо сразу пишем в консоль команду "pip install flask && pip install numpy && pip install torch && pip install transformers && pip install nltk && pip install pandas"
 
 - Шаг № 2: Запукаем модель командой `python3 app.py` или `python app.py` в консоли. Ждем 1-2 минуты, чтобы программа собралась.
-
 - Шаг № 3: Открываем в браузере ссылку http://127.0.0.1:5000/ и пробуем отправить любое английское предложение в окошко. 
 	  
 	Пример предложения для проверки: "Today is such a good day!" или "You are so ugly, go away!"
