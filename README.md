@@ -1,7 +1,6 @@
 # Toxic_classificator_BERT_pytorch
 Toxic coments classificator model with BERT on pytorch
 
-
 # Python Flask App for NLP Classificator Demo
 
 
@@ -22,7 +21,7 @@ Toxic coments classificator model with BERT on pytorch
 
 -Шаг № 2: Запукаем модель командой `python3 app.py` или `python app.py` в консоли. Ждем 1-2 минуты, чтобы программа собралась.
 -Шаг № 3: Открываем в браузере ссылку http://127.0.0.1:5000/ и пробуем отправить любое английское предложение в окошко. 
-	  Например предложения: "Today is such a good day!" или "You are so ugly, go away!"
+	  Пример предложения для проверки: "Today is such a good day!" или "You are so ugly, go away!"
 
 **Примечение:** После отправики (нажатия кнопки 'sent') в течениие 3-10 секунд появится класс предложения - токсичное/нормальное предложение. 
 
@@ -49,7 +48,7 @@ Toxic coments classificator model with BERT on pytorch
   Model loaded
 
 #### Шаг № 3: Открываем в браузере ссылку http://127.0.0.1:5000/ и пробуем отправить любое английское предложение в окошко. 
-	  Например предложения: "Today is such a good day!" или "You are so ugly, go away!"
+	  Пример предложения для проверки: "Today is such a good day!" или "You are so ugly, go away!"
 
 **Примечение:** После отправики (нажатия кнопки 'sent') в течениие 3-10 секунд появится класс предложения - токсичное/нормальное предложение. 
 
@@ -70,4 +69,3 @@ Toxic coments classificator model with BERT on pytorch
 #### Характеристики модели:
  - Точность модели примерно 96%
  - Использовался предобученный эмбендинг (BERT)
-
