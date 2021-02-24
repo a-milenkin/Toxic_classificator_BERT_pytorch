@@ -26,6 +26,7 @@ Toxic coments classificator model with BERT on pytorch
 
 **Примечение:** После отправики (нажатия кнопки 'sent') в течениие 3-10 секунд появится класс предложения - токсичное/нормальное предложение. 
 
+![images/working](Examples)
 
 
 
