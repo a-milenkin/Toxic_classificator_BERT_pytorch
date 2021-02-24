@@ -14,13 +14,15 @@ Toxic coments classificator model with BERT on pytorch
 ## Инструкция по запуску
 
 ## Простой способ запуска работы программы в три шага (для Linux или Window c подсистемой Linux). 
--Шаг № 0: Разархивирует папку flaskapp_Milenkin
--Шаг № 1: Убедиться, что на вашей машине имеются все необходимые библиотеки, включая python
+- Шаг № 0: Разархивирует папку flaskapp_Milenkin
+
+- Шаг № 1: Убедиться, что на вашей машине имеются все необходимые библиотеки, включая python
 	  Для этого либо смотрим список в requirements.txt (в консоле `pip install -r requirements.txt` ) и ставим все необходимые библиотеки flask/numpy/torch/transformers/nltk/pandas
 	  Либо сразу пишем в консоль команду "pip install flask && pip install numpy && pip install torch && pip install transformers && pip install nltk && pip install pandas"
 
--Шаг № 2: Запукаем модель командой `python3 app.py` или `python app.py` в консоли. Ждем 1-2 минуты, чтобы программа собралась.
--Шаг № 3: Открываем в браузере ссылку http://127.0.0.1:5000/ и пробуем отправить любое английское предложение в окошко. 
+- Шаг № 2: Запукаем модель командой `python3 app.py` или `python app.py` в консоли. Ждем 1-2 минуты, чтобы программа собралась.
+
+- Шаг № 3: Открываем в браузере ссылку http://127.0.0.1:5000/ и пробуем отправить любое английское предложение в окошко. 
 	  
 	Пример предложения для проверки: "Today is such a good day!" или "You are so ugly, go away!"
 
