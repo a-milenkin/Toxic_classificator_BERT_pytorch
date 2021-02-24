@@ -1,5 +1,5 @@
 # Python Flask App for NLP Classificator Demo
-Toxic coments classificator model with BERT on pytorch
+Toxic coments classificator model with BERT on pytorch in Web
 
 ### Описание проекта
 Данное веб приложение позволяет определять токсичность текста. 
