@@ -1,14 +1,11 @@
-# Toxic_classificator_BERT_pytorch
+# Python Flask App for NLP Classificator Demo
 Toxic coments classificator model with BERT on pytorch
 
-# Python Flask App for NLP Classificator Demo
-
-
 ### Описание проекта
-комплекс состоит из двух частей
+Данное веб приложение позволяет определять таксичность текста. 
+Комплекс состоит из двух частей
 - app.py - WEB приложение на базе FLASK
 - model.py - предобученная модель на базе BERT на данных с соревнований kaggle 
-
 
 
 ## Инструкция по запуску
